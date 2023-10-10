@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @singhshubham23
 - 👀 I’m interested in Codes.
 - 🌱 I’m currently learning programming.
-- 📫 follow me @_stfu_shubham_
 
 <!---
 singhshubham23/singhshubham23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
