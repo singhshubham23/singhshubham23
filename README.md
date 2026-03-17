@@ -1,3 +1,5 @@
+[![An image of @singhshubham23's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/singhshubham23)](https://holopin.io/@singhshubham23)
+
 # 💫 About Me:
 💻 Full-stack MERN developer passionate about building real-world products<br><br>🚀 Love solving problems, learning new tech & contributing to open-source<br><br>🌱 Currently exploring cloud, DevOps & performance optimization<br><br>🎯 Goal: Become a skilled software engineer who ships impactful projects
 
