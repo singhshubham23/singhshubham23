@@ -17,17 +17,7 @@
 
 ## 💫 About Me
 
-```txt
-const shubham = {
-    role: "Final-year B.Tech CS Student",
-    college: "Bengal College of Engineering & Technology",
-    graduating: 2026,
-    stack: "MongoDB · Express · React · Node.js",
-    currentlyExploring: ["Cloud", "DevOps", "Performance Optimization"],
-    achievement: "National Finalist, Smart India Hackathon 2024",
-    mission: "Ship impactful, production-grade software"
-};
-```
+I'm a final-year B.Tech Computer Science student at Bengal College of Engineering & Technology (graduating 2026), and a full-stack MERN developer who enjoys turning ideas into real, working products. My stack of choice is **MongoDB · Express · React · Node.js**, and I'm currently deepening my skills in cloud, DevOps, and performance optimization.
 
 - 💼 Software Engineer Intern @ **Heal Bharat Services** (Remote)
 - 🔐 Cyber Security & Software Development Intern @ **AICTE x Edunet Foundation** (Remote)
