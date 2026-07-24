@@ -9,7 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamkumarshubham17@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_shubham_.singh_13_)
 
-<img src="https://visitcount.itsvg.in/api?id=singhshubham23&icon=0&color=6" alt="visitor badge" />
+<img src="https://komarev.com/ghpvc/?username=singhshubham23&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
 
 </div>
 
