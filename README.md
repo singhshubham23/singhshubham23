@@ -60,7 +60,7 @@ AI-powered water management platform focused on smart monitoring and resource op
 
 `React` `Node.js` `MongoDB` `AI/ML`
 
-> 📌 *Add the live repo link here for recruiters to click through.*
+> 📌 *https://aquaveda.vercel.app/*
 
 </td>
 </tr>
