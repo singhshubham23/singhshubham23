@@ -145,10 +145,8 @@ AI-powered water management platform focused on smart monitoring and resource op
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=singhshubham23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=singhshubham23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
-
-> ℹ️ Using a community-hosted mirror since the main `github-profile-trophy.vercel.app` instance is rate-limited. Swap in another mirror from the [project repo](https://github.com/ryo-ma/github-profile-trophy), or deploy your own free Vercel instance for a permanent fix.
 
 <br>
 
